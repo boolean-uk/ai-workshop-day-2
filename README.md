@@ -1,4 +1,4 @@
-# AI for Software Development Day 2 Workshop
+# AI for Software Development Day 2 Morning Workshop
 
 ## Learning Objectives
 
